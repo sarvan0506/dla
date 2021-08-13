@@ -10,7 +10,7 @@ Computer Generated DLA              |  A DLA cluster grown from a copper sulfate
 :----------------------------------:|:--------------------------------------------------------------------------------:
 ![dla_sim](assets/dla_sim.png)      |  ![dla_copper](assets/dla_copper.png)
 
-See more on the presentation about the study https://docs.google.com/presentation/d/17A_gvxG1EmzdUL9KTa0zkYbnv27DJtntcj8UI-WBVXg/edit?usp=sharing
+See more in the presentation about the study https://docs.google.com/presentation/d/17A_gvxG1EmzdUL9KTa0zkYbnv27DJtntcj8UI-WBVXg/edit?usp=sharing
 
 ## Dependencies
 
@@ -22,13 +22,13 @@ Specify the range of stickiness(k) values and folder path to store results in `r
 
 `$ python run_simulations.py`
 
-1. `dla_sim_normal.py`  is the class file that is used to generate DLA simulations
+1. `dla_sim_normal.py`  is the class file that is used to generate DLA simulations.
 2. `utils.py` consists of utility functions to compute metrics such as Center Density, Neighbor Strength, Circular Mask etc.
 
 ## Approach
 
 Approach to find stickiness is discussed detailed in https://docs.google.com/presentation/d/17A_gvxG1EmzdUL9KTa0zkYbnv27DJtntcj8UI-WBVXg/edit?usp=sharing.
-To have a look at the implementation, please look into `Approach_to_find_stickiness.ipynb`
+To have a look at the implementation, please look into `Approach_to_find_stickiness.ipynb`.
 
 ## References
 
