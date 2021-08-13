@@ -8,7 +8,7 @@ DLA can be observed in many systems such as electrodeposition, Hele-Shaw flow, m
 
 Computer Generated DLA              |  A DLA cluster grown from a copper sulfate solution in an electrodeposition cell
 :----------------------------------:|:--------------------------------------------------------------------------------:
-![dla_sim](assets/dla_sim.png)      |  ![dla_copper](assets/dla_copper.dla)
+![dla_sim](assets/dla_sim.png)      |  ![dla_copper](assets/dla_copper.png)
 
 See more on the presentation about the study https://docs.google.com/presentation/d/17A_gvxG1EmzdUL9KTa0zkYbnv27DJtntcj8UI-WBVXg/edit?usp=sharing
 
