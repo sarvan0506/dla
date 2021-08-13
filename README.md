@@ -1,4 +1,4 @@
-# dla
+# Diffusion-limited Aggregation (DLA)
 
 A Study of Diffusion-Limited Aggregation and approach to find stickiness k.
 
