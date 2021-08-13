@@ -23,7 +23,7 @@ Specify the range of stickiness(k) values and folder path to store results in `r
 `$ python run_simulations.py`
 
 1. `dla_sim_normal.py`  is the class file that is used to generate DLA simulations.
-2. `utils.py` consists of utility functions to compute metrics such as Center Density, Neighbor Strength, Circular Mask etc.
+2. `utils.py` consists of utility functions to compute metrics such as Center Density, Neighbor Strength, Circular Mask etc.(discussed in detail in the presentation mentioned above.)
 
 ## Approach
 
