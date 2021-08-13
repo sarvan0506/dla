@@ -28,7 +28,7 @@ Specify the range of stickiness(k) values and folder path to store results in `r
 ## Approach
 
 Approach to find stickiness is discussed detailed in https://docs.google.com/presentation/d/17A_gvxG1EmzdUL9KTa0zkYbnv27DJtntcj8UI-WBVXg/edit?usp=sharing.
-To have a look at the implementation, please look into `Approach_to_find_stickiness.ipynb`.
+To have a look at the implementation, please check `Approach_to_find_stickiness.ipynb`.
 
 ## References
 
